@@ -1,6 +1,5 @@
 # projeto-Basquete
 Aplicação Java desenvolvido para acompanhamento de jogos de Basquete, segue Documentação com mais detalhes.
-# np [![Build Status](https://travis-ci.com/sindresorhus/np.svg?branch=master)](https://travis-ci.com/github/sindresorhus/np) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 
 > A better `npm publish`
 
