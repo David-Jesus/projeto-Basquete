@@ -17,12 +17,12 @@ Aplicação Java desenvolvido para o acompanhamento de jogos de Basquete, segue 
 # Descrição
 
 Esta aplicação foi desenvolvida para auxiliar e automatizar o processo de pontuações de partidadas de basquete, com a aplicação
-é possivel atualizar automaticamente os dados da Temporada que estiver verificando apenas informando o placar.
+é possivel atualizar automaticamente os dados de uma Temporada apenas informando o placar.
 
 # Como usar o código
  Basta salvar os arquivos anexados em uma pasta com o nome desejado.
  
-Incie a IDE de sua preferência e siga os seguintes passos: 
+Inicie a IDE de sua preferência e siga os seguintes passos: 
 
 - Com a IDE aberta procure e abra a pasta  com os arquivos salvos anteriormente;
 - Agora o projeto esta pronto para incializar selecione: depurar/executar para iniciar o código no terminal;
